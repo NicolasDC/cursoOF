@@ -1,7 +1,7 @@
 # Instalación desde GitHub.com
 ##### por [Patricio Gonzalez Vivo](www.patriciogonzalezvivo.com)
 
-## 1. Pre-requicitos
+## 1. Pre-requisitos
 
 Como vimos en el capítulo anterior, openFrameworks consiste tan sólo de un conjunto de librerías que facilita la utilización de varias librerías openSource. Por lo que tan sólo representa hojas de código que se relacionan con más hojas de código. Con esto quiero señalar que no existe un ejecutable como Processing o Flash el cual correr y pueda decir "Ahora estoy corriendo openFrameworks".
 
